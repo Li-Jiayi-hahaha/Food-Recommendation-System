@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{7BC42DB0-DEF7-DB10-7BE7-1DF9697DB3A4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/AssessPlan/RecommendedMealNutritionIntake.cs">
+    <Files>
+      <File FileName="Assets/scripts/UploadMealHistory/SelectFoodManager.cs" Line="260" Column="25" />
+      <File FileName="Assets/scripts/DAO/MealHistoryDAO.cs" Line="237" Column="12" />
+      <File FileName="Assets/scripts/ReportMgrs/ReportAttachMgr.cs" Line="38" Column="6" />
+      <File FileName="Assets/scripts/ReportMgrs/ReportMgr.cs" Line="40" Column="29" />
+      <File FileName="Assets/scripts/AssessPlan/RecommendedMealNutritionIntake.cs" Line="110" Column="22" />
+      <File FileName="Assets/scripts/DataStruct/NutritionNames.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Food Recommendation System" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="AssessPlan" expanded="True">
+                  <Node name="RecommendedMealNutritionIntake.cs" selected="True" />
+                </Node>
+                <Node name="DAO" expanded="True" />
+                <Node name="DataStruct" expanded="True" />
+                <Node name="En_MH" expanded="True" />
+                <Node name="LongTermAdvice" expanded="True" />
+                <Node name="Recom_Menu" expanded="True" />
+                <Node name="ReportMgrs" expanded="True" />
+                <Node name="UploadMealHistory" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="944931ee-c4bb-49e6-a7c2-b1432276f9eb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
